@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "name": "daandelange/arborescence",
-  "description": "An tree menu for your kirby (v5) panel.",
+  "description": "A tree menu for your kirby (v5) panel.",
   "homepage:": "https://github.com/daandelange/kirby-arborescence",
   "author": "Daan de Lange",
   "support": {

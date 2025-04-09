@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "name": "daandelange/arborescence",
+    "type": "kirby-plugin",
+    "description": "A tree menu for your kirby (v5) panel.",
+    "homepage:": "https://github.com/daandelange/kirby-arborescence",
+    "license": "MIT",
+    "author" : "Daan de Lange",
+    "authors": [
+        {
+            "name": "Daan de Lange",
+            "homepage": "https://daandelange.com/"
+        }
+    ],
+    "keywords": [
+        "kirby5",
+        "kirby-cms",
+        "kirby-plugin",
+        "kirby-section-plugin",
+        "kirby-panel-plugin"
+    ],
+    "support": {
+        "docs": "https://github.com/daandelange/kirby-arborescence/blob/main/README.md",
+        "source": "https://github.com/daandelange/kirby-arborescence"
+    },
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "extra": {
+        "installer-name": "arborescence"
+    },
+}
