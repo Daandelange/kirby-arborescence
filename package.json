@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "daandelange/arborescence",
+  "description": "An tree menu for your kirby (v5) panel.",
+  "homepage:": "https://github.com/daandelange/kirby-arborescence",
+  "author": "Daan de Lange",
+  "support": {
+    "docs": "https://github.com/daandelange/kirby-arborescence/blob/main/README.md",
+    "source": "https://github.com/daandelange/kirby-arborescence"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "kirbyup src/index.js --watch",
+    "build": "kirbyup src/index.js"
+  },
+  "devDependencies": {
+    "kirbyup": "^0.13.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
