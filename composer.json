@@ -20,7 +20,7 @@
         "kirby-panel-plugin"
     ],
     "support": {
-        "docs": "https://github.com/daandelange/kirby-arborescence/blob/main/README.md",
+        "docs": "https://github.com/Daandelange/kirby-arborescence/blob/master/README.md",
         "source": "https://github.com/daandelange/kirby-arborescence"
     },
     "require": {
